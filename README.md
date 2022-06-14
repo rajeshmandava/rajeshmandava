@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rajeshmandava
+- 👀 I’m interested in C++, Data structures, Algorithms and Python
+- 🌱 I’m currently learning CMake build system and bunch C++ latest version concepts
+- 💞️ I’m looking to collaborate on C++ and Python
+- 📫 How to reach me ---
