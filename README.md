@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rajeshmandava
-- 👀 I’m interested in C++, Data structures, Algorithms and Python
-- 🌱 I’m currently learning CMake build system and bunch of C++ Modern concepts
-- 💞️ I’m looking to collaborate on C++ and Python
-- 📫 How to reach me ---
+- 👀 I’m interested in C++, Data structures, Algorithms, Python, Web Development and Clout Computing
+- 🌱 I’m currently learning Web Development with HTML5, CSS3 and Javascript.
+- 📝 I write at https://www.blogmycode.com/
