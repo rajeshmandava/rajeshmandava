@@ -2,4 +2,4 @@
 - 👀 I’m interested in C++, Data structures, Algorithms, Python, Web Development(HTML5,CSS3 Javascript, React, Express and Node) and Cloud Computing
 - 🌱 I’m currently learning Web Development with HTML5, CSS3 and Javascript and ReactJS
 - 📝 I write at https://www.blogmycode.com/
-- Looking forward to learn TypeScript and Carbon.
+- Looking forward to learn TypeScript and Go.
